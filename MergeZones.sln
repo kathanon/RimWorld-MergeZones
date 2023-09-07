@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5F4CC2BD-8E94-49D8-9FE9-DCDD4A9D2D75}") = "MergeZones", "Source\MergeZones.csproj", "{C6C7C4B9-123A-40E7-AE2E-59A65579E536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C7C4B9-123A-40E7-AE2E-59A65579E536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C7C4B9-123A-40E7-AE2E-59A65579E536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C7C4B9-123A-40E7-AE2E-59A65579E536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C7C4B9-123A-40E7-AE2E-59A65579E536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6A186B-E0A7-4867-8E10-13150C74B486}
+	EndGlobalSection
+EndGlobal

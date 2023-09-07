@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <kathanon.MergeZones.MergeLabel>Merge zones</kathanon.MergeZones.MergeLabel>
+  <kathanon.MergeZones.MergeTip>Merge the selected zones into {0}.
+Right-click to select which zone to merge into.</kathanon.MergeZones.MergeTip>
+  <kathanon.MergeZones.UndoLabel>Undo merge</kathanon.MergeZones.UndoLabel>
+  <kathanon.MergeZones.UndoTip>Undo merging zones.</kathanon.MergeZones.UndoTip>
+</LanguageData>
